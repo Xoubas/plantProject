@@ -1,0 +1,57 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(images/wp3557588.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Flexbox section */
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    align-content: center;
+    width: 65%;
+    height: 50%;
+    margin: auto;
+    border-style: solid;
+    background-color:#401e01ad;
+    padding: 13px 0px 8px;
+}
+
+.flexbox div figcaption{
+    text-align: center;
+    text-emphasis: initial;
+    color: #F2F1DC;
+    font-family: serif;
+    font-size: larger;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+/* Header section */
+
+header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+header h1{
+    color: yellow;
+    font-size: 4vw;
+    background-color: #401e01e5;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 4px;
+    border-radius: 6px;
+}
