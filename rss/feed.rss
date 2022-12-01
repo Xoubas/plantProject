@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Flowers of the world</title>
+    <id>https://xoubas.github.io/plantProject/</id>
+    <link>https://xoubas.github.io/plantProject/</link>
+    <updated>2022-12-13T10:23:27Z</updated>
+    
+    <entry>
+        <author>
+            <name>Javier Bayón Quintas</name>
+        </author>
+        <title>Plants</title>
+        <description>Display of images of flowers Javier Bayón has come across travelling through different countries.</description>
+        <link>https://xoubas.github.io/plantProject/plantPage.html</link>
+        <updated>2022-12-13T10:23:27Z</updated>
+    </entry>
+</feed>

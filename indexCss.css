@@ -1,4 +1,14 @@
+body{
+    margin-top: 10px;
+    margin-left: 3pc;
+    margin-right: 30pc;
+}
+
 a{
     font-size: 300%;
     text-decoration: none;
+}
+
+header a:last-child{
+    margin-left: 17px;
 }
